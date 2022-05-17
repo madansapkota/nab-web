@@ -15,4 +15,7 @@ Block ads and pop-ups on OnlineKhabar, Kantipur, Nagarik, and your favorite Nepa
 #### Download and Install
 The extension is available in Chrome web store with the name [Nepali Ads Blocker].
 
+#### Privacy Policy
+We understand that this is a big responsibility, and we work hard to protect your information. Read our [Privacy Policy](privacy.md).
+
 [Nepali Ads Blocker]: https://chrome.google.com/webstore/detail/nepaliadblock/leimohpohkghkhednlifdlejcnhappio
