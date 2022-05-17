@@ -1,4 +1,4 @@
-### [Nepali Ads Blocker]
+### Nepali Ads Blocker
 Block ads and pop-ups on OnlineKhabar, Kantipur, Nagarik, and your favorite Nepali websites. The supported sites are growing; here are a few of them.
 
 | -                  | -                     | -                    | -                 |
