@@ -1,16 +1,20 @@
 ### Nepali Ads Blocker
-Block ads and pop-ups on OnlineKhabar, Kantipur, Nagarik, and your favorite Nepali websites. The supported sites are growing; here are a few of them.
+Block ads and pop-ups on OnlineKhabar, Kantipur, Nagarik, and your favorite Nepali websites. More than 45 sites are supported, and the list is growing; here are a few of them.
 
-| -                  | -                     | -                    | -                 |
-|--------------------|-----------------------|----------------------|-------------------|
-| aajakokhabar.com   | ekantipur.com         | nagariknetwork.com   | ratopati.com      |
-| annapurnapost.com  | etajakhabar.com       | nayapatrikadaily.com | realkhabar.net    |
-| arthasarokar.com   | gorkhapatraonline.com | nepalipatra.com      | recentnepal.com   |
-| baahrakhari.com    | hamrakura.com         | nepalpress.com       | sancharkendra.com |
-| businesssansar.com | hamropatro.com        | news24nepal.tv       | setopati.com      |
-| butwalonline.com   | imagekhabar.com       | onlinekhabar.com     | thahakhabar.com   |
-| dcnepal.com        | kathmandutoday.com    | osnepal.com          |                   |
-| ekagaj.com         | koshionline.com       | purbelinews.com      |                   |
+|A-E               |E-K                  |N-R                 |R-Z               |
+|------------------|---------------------|--------------------|------------------|
+|aajakokhabar.com  |etajakhabar.com      |nagariknetwork.com  |recentnepal.com   |
+|annapurnapost.com |goalnepal.com        |nayapatrikadaily.com|sahityapost.com   |
+|arthasarokar.com  |gorkhapatraonline.com|nepalipatra.com     |sancharkendra.com |
+|baahrakhari.com   |hamrakura.com        |nepalkhabar.com     |setopati.com      |
+|businesssansar.com|hamropatro.com       |nepalpress.com      |sharesansar.com   |
+|butwalonline.com  |imagekhabar.com      |news24nepal.tv      |sunaulonepal.com  |
+|collegenp.com     |janaboli.com         |newssanjal.com      |swasthyakhabar.com|
+|collegesnepal.com |jhapaexpress.com     |onlinekhabar.com    |techpana.com      |
+|dcnepal.com       |jhapaonline.com      |osnepal.com         |thahakhabar.com   |
+|edusanjal.com     |kathmandutoday.com   |purbelinews.com     |                  |
+|ekagaj.com        |khabarhub.com        |ratopati.com        |                  |
+|ekantipur.com     |koshionline.com      |realkhabar.net      |                  |
 
 #### Download and Install
 The extension is available in Chrome web store with the name [Nepali Ads Blocker].
