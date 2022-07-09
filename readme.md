@@ -1,7 +1,7 @@
 ### Nepali Ads Blocker
 Block ads and pop-ups on OnlineKhabar, Kantipur, Nagarik, and your favorite Nepali websites. More than 45 sites are supported, and the list is growing; here are a few of them.
 
-|A-E               |E-K                  |N-R                 |R-Z               |
+|A-E               |E-K                  |K-P                 |R-Z               |
 |------------------|---------------------|--------------------|------------------|
 |aajakokhabar.com  |etajakhabar.com      |koshionline.com     |ratopati.com      |
 |annapurnapost.com |goalnepal.com        |nagariknetwork.com  |realkhabar.net    |
